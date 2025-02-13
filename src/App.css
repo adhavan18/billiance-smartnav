@@ -1,8 +1,9 @@
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  background-color: #f9f9f9;
+  background-color: #0d00ff;
   color: #333;
+  backdrop-filter: blur(50%);
 }
 
 h1, h2, h3 {
