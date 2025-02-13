@@ -40,7 +40,7 @@ export const items = [
       price: "200.00",
       location: "Aisle 5, Section 2",
       image:"/fortune.jpg",
-    },
+    }
     
   ];
   
