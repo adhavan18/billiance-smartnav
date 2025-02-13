@@ -15,7 +15,7 @@ export const items = [
       description: "Powerful stain removal detergent that works in just one wash.",
       price: "180.00",
       location: "Aisle 4, Section 1",
-      image: "https://via.placeholder.com/150?text=Surf+Excel",
+      image:"/dairy_milk.jpeg,
     },
     {
       id: "3",
@@ -23,7 +23,7 @@ export const items = [
       description: "Iodized salt to keep you healthy and strong, perfect for everyday cooking.",
       price: "20.00",
       location: "Aisle 1, Section 2",
-      image: "https://via.placeholder.com/150?text=Tata+Salt",
+      image:"/tata_salt.jpeg",
     },
     {
       id: "4",
@@ -31,7 +31,7 @@ export const items = [
       description: "Classic glucose biscuits that are perfect for tea-time snacks.",
       price: "10.00",
       location: "Aisle 3, Section 4",
-      image: "https://via.placeholder.com/150?text=Parle-G+Biscuits",
+      image:"/parleg.jpeg,
     },
     {
       id: "5",
@@ -39,7 +39,7 @@ export const items = [
       description: "Light and healthy sunflower oil for all your cooking needs.",
       price: "200.00",
       location: "Aisle 5, Section 2",
-      image: "https://via.placeholder.com/150?text=Fortune+Oil",
+      image:"/fortune.jpeg,
     },
     
   ];
