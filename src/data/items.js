@@ -41,8 +41,7 @@ export const items = [
       location: "Aisle 5, Section 2",
       image:"/fortune.jpg",
     }
-    
-  ];
   
+  ];
   
   
